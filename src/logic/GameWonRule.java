@@ -8,7 +8,7 @@ package logic;
 
 /**
  *
- * @author Nathan
+ * @author Nathaniel
  */
 public class GameWonRule extends Rule {
   private String[] winT = new String[3];

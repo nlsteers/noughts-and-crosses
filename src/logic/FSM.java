@@ -2,7 +2,7 @@ package logic;
 
 /**
  *
- * @author Nathaniel Steers
+ * @author Nathaniel
  */
 public class FSM {
     

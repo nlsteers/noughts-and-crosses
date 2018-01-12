@@ -4,7 +4,7 @@ package agent;
 
 /**
  *
- * @author Nathan
+ * @author Nathaniel
  */
 
 import java.util.*;

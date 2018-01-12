@@ -3,7 +3,7 @@ package logic;
 
 /**
  *
- * @author Nathan
+ * @author Nathaniel
  */
 public class GameDrawnRule extends Rule {
   

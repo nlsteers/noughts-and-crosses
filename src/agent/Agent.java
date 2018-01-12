@@ -2,7 +2,7 @@ package agent;
 
 /**
  *
- * @author Nathan
+ * @author Nathaniel
  */
 import logic.FSM;
 public class Agent {

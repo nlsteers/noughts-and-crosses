@@ -3,7 +3,7 @@ package logic;
 
 /**
  *
- * @author Nathan Steers
+ * @author Nathaniel
  */
 public abstract class Rule {
 

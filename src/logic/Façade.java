@@ -6,7 +6,7 @@ import logic.FSM.State;
 
 /**
  *
- * @author Nathan Steers
+ * @author Nathaniel
  */
 public class Façade {
 

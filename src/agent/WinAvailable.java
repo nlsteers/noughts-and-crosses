@@ -7,7 +7,7 @@ import logic.FSM;
 
 /**
 *
-* @author Simon
+* @author Nathaniel
 */
 public class WinAvailable extends Belief {
   private List< Action > blanks = new ArrayList< Action >( );

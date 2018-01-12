@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 import logic.Façade;
 /**
 *
-* @author Nathan Steers
+* @author Nathaniel
 */
 public class Frame extends javax.swing.JFrame {
   Façade game = new Façade();

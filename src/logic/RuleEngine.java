@@ -3,7 +3,7 @@ package logic;
 
 /**
  *
- * @author Nathan Steers
+ * @author Nathaniel
  */
 public class RuleEngine {
   GameWonRule won;

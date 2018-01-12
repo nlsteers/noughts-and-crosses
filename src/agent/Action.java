@@ -2,7 +2,7 @@ package agent;
 
 /**
  *
- * @author Nathan Steers
+ * @author Nathaniel
  */
 public class Action {
   private int row, column;

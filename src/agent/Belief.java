@@ -5,7 +5,7 @@ import logic.FSM;
 
 /**
  *
- * @author Nathan
+ * @author Nathaniel
  */
 public abstract class Belief {
     
